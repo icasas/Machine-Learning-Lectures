@@ -1,49 +1,34 @@
 # Course Machine Learning in R
 
-This course introduces data science and machine learning using R. It combines theoretical lectures with hands-on labs, case studies, and assignments to provide a comprehensive learning experience. 
+This course introduces data science and machine learning using R. It combines theoretical lectures with hands-on labs and case studies to provide a comprehensive learning experience. 
 
-There are two .zip files with the slides and labs.
+There are two .zip files with slides and labs.
 
 ---
 
-## Lecture and Lab Overview
+## Course Content Overview
 
-### Lecture 1: Introduction to AI, ML, and Big Data
-- **Concepts:** Artificial intelligence, machine learning, statistical modeling
-- **Data:** What is big data? Types and sources
-- **Lab 1:** R commands, creating first PDF, HTML, and PowerPoint documents
+| Lecture | Topics | Lab / Practical | Assessment / Notes |
+|---------|-------|----------------|------------------|
+| 1 | Introduction to AI, ML, and Big Data; Data types and sources | Lab 1: R commands; Create PDF, HTML, PPT |  |
+| 2 | Data handling: missing values, statistical description, visualization | Lab 2: RMarkdown |  |
+| 3 | Revisiting ML models: Linear regression, Decision Trees, Random Forest | Lab 3: Random Forest; Bike Sharing Demand | Midterm Exam 1 (Tuesday during class) |
+| 4 | Model training and evaluation with caret; Data preprocessing; Cross-validation |  |  |
+| 5 | Artificial Neural Networks (ANN); Multilayer Perceptron (MLP) | Lab 4: Training and tuning with caret; MLP for regression |  |
+| 6 | Classification problems: MNIST image recognition |  |  |
+| 7 | Convolutional Neural Networks (CNNs); Deep learning with Fashion dataset | Lab 5: MLP for classification; CNNs | Midterm Exam 2 (Tuesday in Aula 30, Bunker) |
+| 8 | Web Scraping | Lab 6: Web scraping | Assignment Release (April 15): 5 tasks + peer assessment, 40 points total |
+| 9 | Sentiment Analysis | Lab 7: Sentiment analysis | Task 1 discussion and example presentation |
+| 10 | Accessing APIs in R | Lab 8: APIs in R | Tasks 2–4: Pitching video (4 pts), Oral presentation (8 pts), Questions (4 pts); Oral presentations Tuesday & Wednesday |
 
-### Lecture 2: Data Handling
-- **Topics:** Dealing with missing values, statistical description, visualization of variables
-- **Lab 2:** Introduction to RMarkdown for reproducible reports
+---
 
-### Lecture 3: Revisiting Machine Learning Models
-- **Topics:** Linear regression, decision trees, random forest (Miles per gallon example)
-- **Lab 3:** Understanding random forest, Bike Sharing Demand case study
+## Key Skills Covered
+- Machine learning models: Linear regression, Decision Trees, Random Forest  
+- Neural networks: MLP, CNN  
+- Data preprocessing and evaluation: caret, cross-validation  
+- Data acquisition: Web scraping, APIs  
+- Text analysis: Sentiment analysis  
+- Reporting and reproducibility: RMarkdown, PDF/HTML/PPT outputs  
 
-
-### Lecture 4: Model Training and Evaluation
-- **Topics:** Using the caret package, data preprocessing, holdout and cross-validation, tuning random forest
-
-### Lecture 5: Artificial Neural Networks (ANN)
-- **Topics:** Types of ANN, Multilayer Perceptron using caret
-- **Lab 4:** Training and tuning models with caret, MLP for regression
-
-### Lecture 6: Classification Problem
-- **Topics:** Simple image recognition using MNIST dataset
-
-### Lecture 7: Convolutional Neural Networks (CNNs)
-- **Topics:** Deep learning, fashion dataset
-- **Lab 5:** MLP for classification, convolutional neural networks
-
-### Lecture 8: Web Scraping
-- **Lab 6:** Web scraping
-
-
-### Lecture 9: Sentiment Analysis
-- **Lab 7:** Sentiment analysis
-
-
-### Lecture 10: Accessing APIs in R
-- **Lab 8:** APIs in R
-
+Hands-on labs and assignments reinforce lecture concepts, building practical R skills for r
