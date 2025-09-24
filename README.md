@@ -31,4 +31,3 @@ There are two .zip files with slides and labs.
 - Text analysis: Sentiment analysis  
 - Reporting and reproducibility: RMarkdown, PDF/HTML/PPT outputs  
 
-Hands-on labs and assignments reinforce lecture concepts, building practical R skills for r
